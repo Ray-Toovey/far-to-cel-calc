@@ -1,0 +1,64 @@
+body{
+    background-color: maroon;
+}
+
+.main{
+    width:600px;
+    background-color: white;
+    border-radius: 20px;
+    padding:20px 75px;
+    margin:auto;
+}
+
+img{
+    width:400px;
+}
+
+.sub{
+    padding:10px 50px;
+    border:2px solid lightgray;
+    background-color: rgb(235, 235, 235);
+}
+
+.pic{
+    text-align: center;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3px;
+}
+
+h1, h2, h3{
+    font-family: 'Maven Pro', sans-serif;
+
+}
+
+h1{
+    color:#808000
+}
+
+h2, h3{
+    color:maroon
+}
+
+.calc{
+    font-variant: small-caps;
+    border: 2px solid gray;
+}
+
+button{
+    background-color: #808000;
+    color:white;
+    font-size: 18px;
+    font-variant: small-caps;
+    padding:5px 15px;
+}
+
+.end{
+    color:maroon
+}
+
+a:hover{
+    border: 2px solid black
+}
